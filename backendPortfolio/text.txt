@@ -1,0 +1,5 @@
+username: mbahindah780
+passwprd:HYIQPhPvAsN8e8Yp
+mongodb+srv://mbahindah780:HYIQPhPvAsN8e8Yp@portfoliobackend.nvcfqqt.mongodb.net/
+
+mongodb+srv://mbahindah780:HYIQPhPvAsN8e8Yp@portfoliobackend.nvcfqqt.mongodb.net/?retryWrites=true&w=majority
